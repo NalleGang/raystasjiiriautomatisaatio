@@ -1,0 +1,10 @@
+{
+  "name": "Cladding Configurator",
+  "short_name": "Cladding",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "Roof and eave cladding miter geometry configurator",
+  "icons": []
+}
